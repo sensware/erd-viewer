@@ -1,9 +1,3 @@
-"""
-Created By:    Cristian Scutaru
-Creation Date: Nov 2021
-Company:       XtractPro Software
-"""
-
 import os, sys, re, json
 import argparse
 import configparser
