@@ -151,3 +151,4 @@ ALTER TABLE "Track" ADD CONSTRAINT "FK_TrackGenreId"
 
 ALTER TABLE "Track" ADD CONSTRAINT "FK_TrackMediaTypeId"
     FOREIGN KEY ("MediaTypeId") REFERENCES "MediaType" ("MediaTypeId");
+
